@@ -1,2 +1,3 @@
 # NewRepo_Shrikant
-This is Shrikant Repository.
+This is Shrikant's Repository.
+Author: Shrikant Khemkar
