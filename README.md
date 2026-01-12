@@ -1,4 +1,4 @@
 # NewRepo_Shrikant
 This is Shrikant's Repository.
 <br>
-Author: Shrikant Khemkar
+Author: Shrikant (Wishtree Technology LLP)
